@@ -1,1 +1,5 @@
-.pdf
+*.pdf
+*.zip
+/images
+/image_tiles_5000
+/.ipynb_checkpoints
